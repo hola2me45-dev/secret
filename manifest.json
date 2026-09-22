@@ -1,21 +1,21 @@
 {
-  "name": "Igniting Scouting — Team Venezuela",
-  "short_name": "Venezuela",
+  "name": "Igniting Strategy Exclusive — Team Venezuela",
+  "short_name": "Exclusive",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#080D22",
-  "theme_color": "#080D22",
+  "background_color": "#0B0906",
+  "theme_color": "#0B0906",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon-exclusive-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-exclusive-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
